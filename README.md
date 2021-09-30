@@ -1,1 +1,1 @@
-# TallerTypescriptDSE
+# Taller de Typescript Cristóbal Arroyo
